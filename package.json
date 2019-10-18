@@ -1,0 +1,15 @@
+{
+  "name": "Sam175410115",
+  "version": "1.0.0",
+  "description": "Tayo^2 Programming",
+  "main": "modernizr-custom.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": "^0.7.11"
+  },
+  "devDependencies": {}
+}
